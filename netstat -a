@@ -1,0 +1,21 @@
+#Command 
+netstat 
+
+#Description
+This command is short for network statistics, used for display several network-related information such as active connections, listening ports, routing tables, interface statistics.
+Mainly used by system administrators to monitor network activity and diagnose networking issues. 
+
+#Commands executed 
+1) netstat -a : To display active TCP connections along with the external domain names or IP addresses
+
+# Observations
+The command enabled me to discover all network connections with my PC, foreign addresses and its state 
+such as LISTENING or ESTABLISHED. 
+
+
+
+
+
+
+
+
