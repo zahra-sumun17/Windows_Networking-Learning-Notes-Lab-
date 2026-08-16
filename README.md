@@ -9,7 +9,7 @@ This repository consists of collection of windows networking commands with expla
 - netstat -l
 - netstat -ano
 - netstat -n
-- netstat -an | grep ':443'
+- netstat -an | findstr ':443'
 
 # Evidence 
 The file named screenshots consists of pictures of the commands being executed in windows terminal. 
