@@ -1,0 +1,5 @@
+# command
+netstat -at : The -a command retrieves active network connections and listening ports 
+              while the -t command displays only TCP connections
+
+# Observations
