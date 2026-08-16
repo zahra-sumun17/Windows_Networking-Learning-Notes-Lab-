@@ -3,3 +3,10 @@ netstat -at : The -a command retrieves active network connections and listening 
               while the -t command displays only TCP connections
 
 # Observations
+The command displayed current TCP, UDP connections,local,foreign addresses and their state, along
+with offload data. In this way, active network connections can be monitored
+
+For example; The state gives the status of a network connection such as ESTABLISHED OR LISTENING.
+Thus, this information can be used to troubleshoot network issues
+
+
